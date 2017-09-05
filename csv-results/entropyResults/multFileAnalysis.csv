@@ -1,0 +1,13 @@
+File Name,Entropy Threshold,Prob Threshold,# Progressions,Keymode,Triad Mode,beatMode,formMode,# Abstract Forms,Max Entropy,Average Entropy,Entropy STD
+ngrams-entropy_noKey_TriadMode0_BeatModeFalse_formModeFalse_1.1_0.25.csv,1.1,0.25,285,False,0,False,False,109,2.563181944712821,1.434547502018264,0.304252980746
+ngrams-entropy_noKey_TriadMode0_BeatModeFalse_formModeTrue_1.1_0.25.csv,1.1,0.25,260,False,0,False,True,58,2.8464393446710154,1.595756546514594,0.420922464827
+ngrams-entropy_noKey_TriadMode0_BeatModeTrue_formModeFalse_1.1_0.25.csv,1.1,0.25,305,False,0,True,False,92,2.540534109342369,1.400210015002276,0.272565875658
+ngrams-entropy_noKey_TriadMode0_BeatModeTrue_formModeTrue_1.1_0.25.csv,1.1,0.25,226,False,0,True,True,47,3.4829175854050423,1.5838025481443851,0.445789258339
+ngrams-entropy_noKey_TriadMode1_BeatModeFalse_formModeFalse_1.1_0.25.csv,1.1,0.25,297,False,1,False,False,125,3.4710522331382045,1.4704746105566262,0.36144993431
+ngrams-entropy_noKey_TriadMode1_BeatModeFalse_formModeTrue_1.1_0.25.csv,1.1,0.25,221,False,1,False,True,59,3.410833553947606,1.5952797118451232,0.429177687058
+ngrams-entropy_noKey_TriadMode1_BeatModeTrue_formModeFalse_1.1_0.25.csv,1.1,0.25,277,False,1,True,False,98,2.7363238771524006,1.4775858346346051,0.360783686433
+ngrams-entropy_noKey_TriadMode1_BeatModeTrue_formModeTrue_1.1_0.25.csv,1.1,0.25,193,False,1,True,True,56,3.630985019785137,1.5525280144394649,0.411116278838
+ngrams-entropy_noKey_TriadMode7_BeatModeFalse_formModeFalse_1.1_0.25.csv,1.1,0.25,295,False,7,False,False,125,2.7187007643071204,1.4777244907251748,0.355919112561
+ngrams-entropy_noKey_TriadMode7_BeatModeFalse_formModeTrue_1.1_0.25.csv,1.1,0.25,224,False,7,False,True,55,2.946492086,1.6137169657500006,0.414374051792
+ngrams-entropy_noKey_TriadMode7_BeatModeTrue_formModeFalse_1.1_0.25.csv,1.1,0.25,284,False,7,True,False,99,2.8176776132934873,1.485091296068707,0.370782118827
+ngrams-entropy_noKey_TriadMode7_BeatModeTrue_formModeTrue_1.1_0.25.csv,1.1,0.25,204,False,7,True,True,58,3.121928094887362,1.5469010603078703,0.391668369828
